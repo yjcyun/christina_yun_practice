@@ -1,2 +1,3 @@
 # personal-website
-first personal website only using HTML and CSS
+first personal website using HTML and CSS
+![Screenshot](./screenshot.png);
