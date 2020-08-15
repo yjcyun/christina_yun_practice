@@ -1,36 +1,36 @@
 body {
-    margin: 0;
+    margin: 0 auto;
     text-align: center;
     font-family: 'Merriweather', serif;
-}
-
-h1 {
+  }
+  
+  h1 {
     margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
     font-size: 5rem;
     color: #66BFBF;   
-}
-
-h2 {
+  }
+  
+  h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     color: #66BFBF;
-}
-
-h3 {
+  }
+  
+  h3 {
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
-}
-
-a {
+  }
+  
+  a {
     color: #11999E;
-}
-
-p {
+  }
+  
+  p {
     color:#40514E;
-}
-
-hr {
+  }
+  
+  hr {
     border-style: none;
     border-top-style: dotted;
     border-color: #EAF6F6;
@@ -38,95 +38,95 @@ hr {
     width: 10%;
     margin-top: 100px;
     margin-bottom: 100px;
-}
-
-button {
+  }
+  
+  button {
     margin-top: 20px;
     padding: 10px;
     radius: 60%;
     background-color: #11999E;
     border: none;
     border-radius: 10%;
-
-}
-
-.btn {
+  
+  }
+  
+  .btn {
     text-decoration: none;
     color: #EAF6F6;
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
-
-}
-
-.title {
+  
+  }
+  
+  .title {
     font-weight: normal;
-}
-
-.top-container {
+  }
+  
+  .top-container {
     background-color: #E4F9F5;
     position: relative;
-    padding-top: 100px;
-}
-
-.middle-container {
+    padding: 100px 0;
+  }
+  
+  .middle-container {
     padding-top: 100px;
     background-color: white;
-    
-}
-
-.bottom-container {
+    max-width: 1170px;
+    margin: 0 auto;
+  }
+  
+  .bottom-container {
     background-color: #66BFBF;
     padding: 50px;
-}
-
-.plants {
+  }
+  
+  .plants {
     width: 10%;
     position: absolute;
     right: 300px;
-}
-
-.plants2 {
+  }
+  
+  .plants2 {
     width: 10%;
     position: absolute;
     left: 200px;
     top: 200px;
-}
-
-.profilePicture {
+  }
+  
+  .profilePicture {
     width: 15%;
     border-radius: 100%;
-}
-
-.skill-row {
+  }
+  
+  .skill-row {
     width: 50%;
     margin: 100px auto;
     text-align: left;
     line-height: 2;
-}
-
-.lightbulb {
+  }
+  
+  .lightbulb {
     width: 25%;
     float: left;
     margin-right: 30px;
-}
-
-.clipboard {
+  }
+  
+  .clipboard {
     width: 25%;
     float: right;
     margin-left: 30px;
-}
-
-.contact-me {
+  }
+  
+  .contact-me {
     margin-bottom: 100px;
-}
-
-.copyright {
+  }
+  
+  .copyright {
     color: #EAF6F6;
-}
-
-.footer-link {
+  }
+  
+  .footer-link {
     text-decoration: none;
     color: #11999E;
     padding-right: 50px;
-
-}
+  }
